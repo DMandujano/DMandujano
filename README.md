@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hola, soy Dafne 👋
+## Sobre mí
 <!--
 **DMandujano/DMandujano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
